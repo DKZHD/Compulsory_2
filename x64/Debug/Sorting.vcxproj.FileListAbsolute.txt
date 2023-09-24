@@ -1,0 +1,2 @@
+D:\Algorithms and Data Structure\Sorting\x64\Debug\Sorting.exe
+D:\Algorithms and Data Structure\Compulsory_2\x64\Debug\Sorting.exe
